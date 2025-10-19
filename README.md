@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&height=280&color=0:2B2B2B,100:555555&text=hanbin's%20github&fontColor=F5F5F5&section=footer&reversal=true&textBg=false&fontAlign=65&fontAlignY=80&animation=fadeIn&stroke=707070&strokeWidth=0.5
+![header](https://capsule-render.vercel.app/api?type=soft&height=250&color=0:0A0A0B,50:151619,100:2E3236&text=hanbin's%20GitHub&fontColor=ECECEC&section=header&reversal=true&textBg=false&fontAlign=66&fontAlignY=77&animation=fadeIn
 )
 <!--
 **hanbinni/hanbinni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
