@@ -1,5 +1,5 @@
- <div class="header">
-      <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=6&text=hanbin's%20github&section=header&fontAlign=66&fontAlignY=30&fontColor=ffffff&animation=blink&stroke=677672">
+![header](https://capsule-render.vercel.app/api?type=soft&height=280&color=0:2B2B2B,100:555555&text=hanbin's%20github&fontColor=F5F5F5&section=footer&reversal=true&textBg=false&fontAlign=65&fontAlignY=80&animation=fadeIn&stroke=707070&strokeWidth=0.5
+)
 <!--
 **hanbinni/hanbinni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
