@@ -47,16 +47,5 @@
 <br>
 
 
-<div align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanbinni&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6E6E6" 
-    height="180px"
-  />
-    <br>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=hanbinni&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6E6E6&icon_color=007AFF" 
-    height="180px"
-  />
-
   
 </div>
